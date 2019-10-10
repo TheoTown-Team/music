@@ -1,0 +1,9 @@
+Music by bensound under Creative Commons License
+
+For more information:
+https://www.bensound.com/licensing
+https://creativecommons.org/licenses/by-nd/3.0/legalcode
+
+
+
+Create a file called .nofilecreation to avoid auto file creation.
